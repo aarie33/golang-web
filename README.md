@@ -35,6 +35,16 @@
 ### Template
 - HTML template di package html/template
 - Template Data
+- Range : pada template tidak ada perulangan
+- With : untuk nested struct
+- Layout
+
+### Template Function
+- Global function
+- Custom Global function
+- Function Pipeline
+
+### Auto escape in template
 
 ## Slide
 <a href="https://docs.google.com/presentation/d/1h_8nk-Ani4SykMq5lhgubzdtAtZfzPce7FHUuAKlwmE/edit#slide=id.p">here</a>

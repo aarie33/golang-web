@@ -45,6 +45,8 @@
 - Function Pipeline
 
 ### Auto escape in template
+### Redirect
+### Upload File
 
 ## Slide
 <a href="https://docs.google.com/presentation/d/1h_8nk-Ani4SykMq5lhgubzdtAtZfzPce7FHUuAKlwmE/edit#slide=id.p">here</a>

@@ -47,6 +47,10 @@
 ### Auto escape in template
 ### Redirect
 ### Upload File
+### Download File / Content Disposition
+### Middleware
+- Tidak ada konsep middleware di golang
+- Namun karen struktur handler yang fleksibel, bisa dibuat sendiri
 
 ## Slide
 <a href="https://docs.google.com/presentation/d/1h_8nk-Ani4SykMq5lhgubzdtAtZfzPce7FHUuAKlwmE/edit#slide=id.p">here</a>
